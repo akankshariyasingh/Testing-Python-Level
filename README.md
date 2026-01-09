@@ -5,5 +5,7 @@ I am learning Python step by step and uploading one program regularly.
 
 ## Daily Progress
 - Day 01 (1 jan 2026): Number Guessing Game
-- Day 02 (9 jan 2026):Given a list of usernames, remove spaces,convert to lowercase, and 
+- Day 02 (9 jan 2026): Given a list of usernames, remove spaces,convert to lowercase, and 
 keep only usernames containing letters, digits and underscores.
+- Day 02 (9 jan 2026): Given a paragraph, convert it to lowercase, remove punctuation, count
+how many times each word appears, and print only the words that occur more than once.
