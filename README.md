@@ -37,3 +37,4 @@ spaces and case.
 the original order.
  8. Given a list of elements, count how many times each element appears and store the 
 result in a dictionary.
+ 9. Find the second largest number in the list without using sort().
