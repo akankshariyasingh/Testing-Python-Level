@@ -33,3 +33,5 @@ and values are lists of students.
 valid users( age between 18 and 60 ).
  6. Given a string, create a dictionary that stores the frequency of each character,ignoring
 spaces and case.
+ 7. Given a list of integers, create a new list that removes duplicates without changing
+the original order.
