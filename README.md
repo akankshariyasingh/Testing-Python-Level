@@ -18,3 +18,5 @@ remove extra spaces, and return the cleaned sentence
 into a dictionary.
 2. Given a list of logins (username,device), create a case-sensitive dictionary where each 
 usermaps to another dictionary counting how many times they logged in from each device.
+3. Given a dictionary of students and their cities, invert it so cities become keys
+and values are lists of students.
