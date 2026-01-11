@@ -21,5 +21,7 @@ usermaps to another dictionary counting how many times they logged in from each 
 3. Given a dictionary of students and their cities, invert it so cities become keys
 and values are lists of students.
 4. Given two dictionaries of product prices, merge them such that: 
-1. if the products exists in both keep the lower price.
-2. otherwise keep the existing price.
+    1. if the products exists in both keep the lower price.
+     2. otherwise keep the existing price.
+5. Given a dictionary of users and their ages, create a new dictionary containing only 
+valid users( age between 18 and 60 ).
