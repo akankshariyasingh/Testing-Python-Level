@@ -16,3 +16,5 @@ remove extra spaces, and return the cleaned sentence
        lowercase letter,one digit, and one special character.
 - Day 04 (11 jan 2026): 1. Given a list of(name, score) pairs, combine scores of the same person (case-insensitive)
 into a dictionary.
+2. Given a list of logins (username,device), create a case-sensitive dictionary where each 
+usermaps to another dictionary counting how many times they logged in from each device.
