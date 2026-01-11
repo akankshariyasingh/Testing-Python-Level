@@ -25,3 +25,5 @@ and values are lists of students.
      2. otherwise keep the existing price.
 5. Given a dictionary of users and their ages, create a new dictionary containing only 
 valid users( age between 18 and 60 ).
+6. Given a string, create a dictionary that stores the frequency of each character,ignoring
+spaces and case.
