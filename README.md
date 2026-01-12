@@ -35,6 +35,9 @@ valid users( age between 18 and 60 ).
 spaces and case.
  7. Given a list of integers, create a new list that removes duplicates without changing
 the original order.
- 8. Given a list of elements, count how many times each element appears and store the 
+ 9. Given a list of elements, count how many times each element appears and store the 
 result in a dictionary.
- 9. Find the second largest number in the list without using sort().
+ 10. Find the second largest number in the list without using sort().
+
+**- Day 05 (12 jan 2026):**
+1. Given a list of integers, create a new list that contains only numbers greater than 10.
