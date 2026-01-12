@@ -44,3 +44,14 @@ result in a dictionary.
 2. Given a list of numbers, count how many are even and how many are odd using a for loop.
 3. Given a string, how many times each character appears using a for loop(ignore spaces).
 4. Given a list that removes duplicates but keep the original order.
+5. Given a string , performs the following using only loops and conditions:
+
+   1. Count total characters
+   2. Count vowels
+   3. Count consonants
+   4. Count digit
+   5. Count spaces 
+   6. Reverse the string 
+   7. Check if the string is a palindrome(ignoring spaces)
+   8. Print frequency of each character(order preserved)
+
