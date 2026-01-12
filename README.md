@@ -42,3 +42,4 @@ result in a dictionary.
 **- Day 05 (12 jan 2026):**
 1. Given a list of integers, create a new list that contains only numbers greater than 10.
 2. Given a list of numbers, count how many are even and how many are odd using a for loop.
+3. Given a string, how many times each character appears using a for loop(ignore spaces).
