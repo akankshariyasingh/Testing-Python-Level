@@ -54,4 +54,7 @@ result in a dictionary.
    6. Reverse the string 
    7. Check if the string is a palindrome(ignoring spaces)
    8. Print frequency of each character(order preserved)
+  
+**- Day 05 (12 jan 2026):**
+1. WARM UP PROBLEMS
 
