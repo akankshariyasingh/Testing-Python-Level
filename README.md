@@ -76,4 +76,6 @@ preserves order.
 & punctuation).
 2. Create a function that returns a dictionary where keys are list elements and value
 are their index positions.
+3. Create a function that returns only duplicate characters 
+with their count from a string.
 
