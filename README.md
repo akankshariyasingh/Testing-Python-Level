@@ -71,3 +71,7 @@ preserves order.
 9.  character count.
 10.  Create a function that checks whether a string is a palindrome.
 
+**- part-2**
+1. Create a function that returns the most frequent word in a sentence(ignore case
+& punctuation).
+
