@@ -68,4 +68,5 @@ original order.
 7.  Create a function that takes a sentence and returns a dictionary of word frequencies.
 8.  Create a function that removes duplicates from a list without using a set() and 
 preserves order.
+9.  character count.
 
