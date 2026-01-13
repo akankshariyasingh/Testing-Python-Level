@@ -74,4 +74,6 @@ preserves order.
 **- part-2**
 1. Create a function that returns the most frequent word in a sentence(ignore case
 & punctuation).
+2. Create a function that returns a dictionary where keys are list elements and value
+are their index positions.
 
