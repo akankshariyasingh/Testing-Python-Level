@@ -59,4 +59,6 @@ result in a dictionary.
 1. WARM UP PROBLEMS
 2.  Create a function that takes a sentence and returns a dictionary containing the 
 frequency of each word ( ignore case )
+3.  Create a function that checks whether a number is a perfect number ( A number whose
+divisors sum equals the number itself).
 
