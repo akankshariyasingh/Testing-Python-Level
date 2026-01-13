@@ -55,6 +55,8 @@ result in a dictionary.
    7. Check if the string is a palindrome(ignoring spaces)
    8. Print frequency of each character(order preserved)
   
-**- Day 05 (12 jan 2026):**
+**- Day 06 (13 jan 2026):**
 1. WARM UP PROBLEMS
+2.  Create a function that takes a sentence and returns a dictionary containing the 
+frequency of each word ( ignore case )
 
