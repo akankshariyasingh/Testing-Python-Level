@@ -62,5 +62,7 @@ frequency of each word ( ignore case )
 3.  Create a function that checks whether a number is a perfect number ( A number whose
 divisors sum equals the number itself).
 4.  Create a function that returns the second largest number from the list(without using sort()).
-5.   Create a function that checks if a password: 
+5.   Create a function that checks if a password:
+6.   Cretae a function that removes duplicate characters from a string while keeping
+original order.
 
