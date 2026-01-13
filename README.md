@@ -65,4 +65,5 @@ divisors sum equals the number itself).
 5.   Create a function that checks if a password:
 6.   Cretae a function that removes duplicate characters from a string while keeping
 original order.
+7.  Create a function that takes a sentence and returns a dictionary of word frequencies
 
