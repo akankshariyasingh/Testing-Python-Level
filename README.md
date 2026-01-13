@@ -69,4 +69,5 @@ original order.
 8.  Create a function that removes duplicates from a list without using a set() and 
 preserves order.
 9.  character count.
+10.  Create a function that checks whether a string is a palindrome.
 
