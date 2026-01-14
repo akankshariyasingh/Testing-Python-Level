@@ -82,6 +82,7 @@ with their count from a string.
 **- Day 07 (14 jan 2026):**
 1. Create a function that returns the first charater in a string that does not repeat.
 (ignore case).
-2. Merge two lists into one without duplicates and preserve order.
+2. 1. Merge two lists into one without duplicates and preserve order.
+   2. Given two lists, return a new list containing only the elements that appear in both lists.
 3. 
 
