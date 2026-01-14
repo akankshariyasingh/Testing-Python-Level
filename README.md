@@ -84,5 +84,5 @@ with their count from a string.
 (ignore case).
 2. 1. Merge two lists into one without duplicates and preserve order.
    2. Given two lists, return a new list containing only the elements that appear in both lists.
-3. 
+3.  Return more frequent word in a sentence (ignore case and punctuation).
 
