@@ -79,3 +79,7 @@ are their index positions.
 3. Create a function that returns only duplicate characters 
 with their count from a string.
 
+**- Day 07 (14 jan 2026):**
+1. Create a function that returns the first charater in a string that does not repeat.
+(ignore case).
+
