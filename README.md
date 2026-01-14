@@ -87,4 +87,5 @@ with their count from a string.
 3. 1. Return more frequent word in a sentence (ignore case and punctuation).
    2. Given a sentence, print the word that appears the least number of times.
 4. Returns a dictionary with count of digits and letters in a string. 
+5. Check if two strings are Anagrams ( same characters,same count ).
 
