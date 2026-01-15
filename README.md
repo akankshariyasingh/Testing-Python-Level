@@ -96,7 +96,7 @@ If no even number exists, return None.
 3. Return the first word that appears only once in a sentence.
 4.  Merge two lists and keep only duplicates(frequency>=2.)
 5.  Sentence is valid if it contains at least 1 uppercase letter, 1 digit and length should be 
->=8 Return True or False.
+     >=8 Return True or False.
 
 
 
