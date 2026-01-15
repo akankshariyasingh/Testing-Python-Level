@@ -92,4 +92,6 @@ with their count from a string.
 **- Day 08 (15 jan 2026):**
 1. Create a function that returns the first charater in a string that does not repeat.
 (ignore case).
+2. Given a list of sentences, return words that appear in every sentence (case-insensitive).
+
 
