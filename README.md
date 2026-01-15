@@ -93,5 +93,6 @@ with their count from a string.
 1. Create a function that takes a list of integers and returns the most frequent even number.
 If no even number exists, return None.
 2. Given a list of sentences, return words that appear in every sentence (case-insensitive).
+3. Return the first word that appears only once in a sentence.
 
 
