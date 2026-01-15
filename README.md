@@ -89,3 +89,7 @@ with their count from a string.
 4. Returns a dictionary with count of digits and letters in a string. 
 5. Check if two strings are Anagrams ( same characters,same count ).
 
+**- Day 08 (15 jan 2026):**
+1. Create a function that returns the first charater in a string that does not repeat.
+(ignore case).
+
