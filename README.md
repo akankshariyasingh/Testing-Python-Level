@@ -90,8 +90,8 @@ with their count from a string.
 5. Check if two strings are Anagrams ( same characters,same count ).
 
 **- Day 08 (15 jan 2026):**
-1. Create a function that returns the first charater in a string that does not repeat.
-(ignore case).
+1. Create a function that takes a list of integers and returns the most frequent even number.
+If no even number exists, return None.
 2. Given a list of sentences, return words that appear in every sentence (case-insensitive).
 
 
