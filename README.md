@@ -94,5 +94,6 @@ with their count from a string.
 If no even number exists, return None.
 2. Given a list of sentences, return words that appear in every sentence (case-insensitive).
 3. Return the first word that appears only once in a sentence.
+4.  Merge two lists and keep only duplicates(frequency>=2.)
 
 
