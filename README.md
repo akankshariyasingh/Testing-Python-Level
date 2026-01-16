@@ -101,6 +101,7 @@ If no even number exists, return None.
 **- Day 09 (16 jan 2026):**
 1. Given a list of integers, find the lenght of the longest consecutive sequence (order does 
   not matter).
+2. Given a list of sentences, return words that appear in every sentence (case-insensitive).
 
 
 
