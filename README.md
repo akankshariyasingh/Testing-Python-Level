@@ -104,5 +104,5 @@ If no even number exists, return None.
 2. Given a list of sentences, return words that appear in every sentence (case-insensitive).
 3. Returns the first word that appears only once in a sentence.
 4. Remove duplicates without changing order.
-
+5. Find all unique pairs whose sum equals target.
 
