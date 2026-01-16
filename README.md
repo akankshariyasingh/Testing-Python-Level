@@ -98,5 +98,9 @@ If no even number exists, return None.
 5.  Sentence is valid if it contains at least 1 uppercase letter, 1 digit and length should be 
      >=8 Return True or False.
 
+**- Day 09 (16 jan 2026):**
+1. Given a list of integers, find the lenght of the longest consecutive sequence (order does 
+  not matter).
+
 
 
