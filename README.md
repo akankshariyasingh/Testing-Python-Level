@@ -102,6 +102,6 @@ If no even number exists, return None.
 1. Given a list of integers, find the lenght of the longest consecutive sequence (order does 
   not matter).
 2. Given a list of sentences, return words that appear in every sentence (case-insensitive).
-
+3. Returns the first word that appears only once in a sentence.
 
 
