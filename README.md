@@ -108,3 +108,4 @@ If no even number exists, return None.
 
 **- Day 10 (17 jan 2026):**
 1. Given a string, return the first character that does not repeat. If none exists,return None.
+2. Find the majority elements in a list.
