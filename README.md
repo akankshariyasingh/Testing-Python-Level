@@ -113,3 +113,11 @@ If no even number exists, return None.
 4. Reverse each word, not the sentence order.
 5. Given a list of lists, return elements common in all.
 6. WRONG ANSWER - Check if parentheses are balanced:()[]{}
+
+**- Day 11 (18 jan 2026):**
+Mini Project - Text Analyzer Tool
+  1. Normalize text(lowercase,remove punctuation)
+  2. count word freuency
+  3. find most and least frequent word
+  4. remove duplicates words (keep order)
+  5. Return all results using functions + dictionaries +lists +loops
