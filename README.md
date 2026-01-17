@@ -111,3 +111,4 @@ If no even number exists, return None.
 2. Find the majority elements in a list.
 3. Check whether one list is a rotation of another.
 4. Reverse each word, not the sentence order.
+5. Given a list of lists, return elements common in all.
