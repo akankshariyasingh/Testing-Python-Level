@@ -110,3 +110,4 @@ If no even number exists, return None.
 1. Given a string, return the first character that does not repeat. If none exists,return None.
 2. Find the majority elements in a list.
 3. Check whether one list is a rotation of another.
+4. Reverse each word, not the sentence order.
