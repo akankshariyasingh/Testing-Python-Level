@@ -106,3 +106,4 @@ If no even number exists, return None.
 4. Remove duplicates without changing order.
 5. Find all unique pairs whose sum equals target.
 
+**- Day 09 (16 jan 2026):**
