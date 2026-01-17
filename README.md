@@ -106,4 +106,5 @@ If no even number exists, return None.
 4. Remove duplicates without changing order.
 5. Find all unique pairs whose sum equals target.
 
-**- Day 09 (16 jan 2026):**
+**- Day 10 (17 jan 2026):**
+1. Given a string, return the first character that does not repeat. If none exists,return None.
