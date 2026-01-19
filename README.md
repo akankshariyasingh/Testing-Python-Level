@@ -121,3 +121,13 @@ Mini Project - Text Analyzer Tool
   3. find most and least frequent word
   4. remove duplicates words (keep order)
   5. Return all results using functions + dictionaries +lists +loops
+
+**- Day 12 (19 jan 2026):**
+mini_project_02 - STUDENT DATA ANALYZER AND VALIDATOR 
+1. extract student name
+2. convert marks into a list of integers
+3. calculate avg marks
+4. assign grade
+5. validate email
+6. store all data in a dictionary
+7. find: topper, failed stu, invalid emails
