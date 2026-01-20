@@ -146,3 +146,12 @@ Done mini_project_02
 7. store failed students seperately
 8. store invalid emials seprately
 
+**- Day 14 (21 jan 2026):**
+**mini_project_04 - Smart Number Analyzer**
+Take a number from the user and analyze them using basic logic (using print function).
+1. even/odd
+2. maximum/minimum
+3. average
+4. prime numbers
+5. numbers greater than average
+
