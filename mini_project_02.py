@@ -9,39 +9,47 @@ mini_project_02 - STUDENT DATA ANALYZER AND VALIDATOR
 7. find: topper, failed stu, invalid emails
 
 '''
-
+               
 def data_analyzer(students):
-    result={}
-    topper=""
-    higest_avg=0
-    failed_student=[]
-    invalid_emails=[]
-    for records in students:
-        name,marks_str,emails=records.split(",") #we can handle multiple arguments inside the def function.
- 
-        name=0
-        marks_str=0
-        emails=0
-        marks_str=marks_str.split()
+    result = []
+    failed_students = []
+    invalid_emails = []
 
-        marks=[]
-        for m in marks_str:
-            marks.append(int(m))
-            average=sum(marks)/len(marks)
-            if average>=85:
-                grade="A"
-            elif average>=60:
-                grade="B"
-            elif average>=40:
-                grade="C"
-            elif average<40:
-                grade="Fail"
-    failed_student.append(m)
+    for record in students:
+        name, marks_str, email = record.split(",")
 
-print(data_analyzer(["Akanksha,78 85 90,akanksha@gmail.com","Ravi,45,60,55,ravi@gmail.com","Neha,90 95 92,nehagmail.com"]))
+        marks_list = marks_str.split()   # split by space
+        marks = []
+
+        for m in marks_list:
+            marks.append(int(m))         # convert to int safely
+
+        average = sum(marks) / len(marks)
+
+        if average >= 85:
+            grade = "A"
+        elif average >= 60:
+            grade = "B"
+        elif average >= 40:
+            grade = "C"
+        else:
+            grade = "Fail"
+            failed_students.append(name)
+
+        if "@" not in email:
+            invalid_emails.append(email)
+
+        result.append({"name": name, "average": average,"grade": grade})
         
-        
+           
+
+    return result, failed_students, invalid_emails
 
 
-   
-    
+students = [
+    "Akanksha,78 85 90,akanksha@gmail.com",
+    "Ravi,45 60 55,ravigmail.com",
+    "Neha,30 35 40,neha@gmail.com"
+]
+
+print(data_analyzer(students))
