@@ -131,3 +131,8 @@ mini_project_02 - STUDENT DATA ANALYZER AND VALIDATOR
 5. validate email
 6. store all data in a dictionary
 7. find: topper, failed stu, invalid emails
+( In completed )
+
+**- Day 13 (20 jan 2026):**
+Done mini_project_02
+
