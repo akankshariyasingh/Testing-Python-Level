@@ -136,3 +136,13 @@ mini_project_02 - STUDENT DATA ANALYZER AND VALIDATOR
 **- Day 13 (20 jan 2026):**
 Done mini_project_02
 
+**mini_project_03 - Student Performance and validation system**
+1. Extract students name 
+2. convert marks string - list of integers
+3. calculate average marks
+4. decide grade
+5. check if email is valid 
+6. store final result in dictionary
+7. store failed students seperately
+8. store invalid emials seprately
+
